@@ -1,1 +1,1 @@
-# Group 1 Mist4610 Group Project 2024
+# Group 1 Mist4610 Group Project (Fall 2024)
