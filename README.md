@@ -7,10 +7,10 @@
 
 1. Dylan Palenik [@dylanpalenik1](https://github.com/dylanpalenik1)
 2. Jordan Beal[@dylanpalenik1](https://github.com/dylanpalenik1)
-3. Hayley Daniels[@dylanpalenik1](https://github.com/dylanpalenik1)
+3. Hayley Daniels[@hayleydaniels](https://github.com/hayleydaniels)
 4. Aakash Dholakia[@dylanpalenik1](https://github.com/dylanpalenik1)
 5. Dan Kerik[@dylanpalenik1](https://github.com/dylanpalenik1)
-6. Lexie-anne Rodkey[@dylanpalenik1](https://github.com/dylanpalenik1)
+6. Lexie-anne Rodkey[@lexieRodkey](https://github.com/lexieRodkey)
 
 ## Problem Description:
 The objective of this project is to model and develop a relational database that comprehensively covers all aspects of a soccer club’s operations. This includes Facilities, Training Sessions, Players, Managers, Squads, Matches, Sponsors, Injuries, and Player Stats. 
