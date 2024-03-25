@@ -5,5 +5,5 @@
 
 ## Team Members:
 
-1. Dylan Palenik [@dylanpalenik1]()
+1. Dylan Palenik [@dylanpalenik1](https://github.com/dylanpalenik1)
 2. 
