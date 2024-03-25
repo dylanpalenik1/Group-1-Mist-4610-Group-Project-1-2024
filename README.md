@@ -1,1 +1,1 @@
-# Group-1-Mist-4610-Group-Project-1-2024<img width="1440" alt="Screenshot 2024-03-14 at 1 26 13 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/7e826716-74dd-4204-b66d-6ecc551651e2">
+# Group-1-Mist-4610-Group-Project-1-2024
