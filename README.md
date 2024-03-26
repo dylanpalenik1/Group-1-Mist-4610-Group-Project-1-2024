@@ -36,29 +36,7 @@ Squads can consist of multiple players, have one manager, and play multiple matc
 <img width="692" alt="Screenshot 2024-03-26 at 5 59 51 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/ec64138e-6082-4c74-a2a9-f4c569a6b1ec">
 
 ## Data Dictionary:
-<img width="605" alt="Screenshot 2024-03-25 at 5 59 43 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/40ec4797-21c9-43d2-a46f-705a1ea5b11e">
 
-<img width="614" alt="Screenshot 2024-03-25 at 5 59 24 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/fcbcfa7c-451d-47a3-852d-877c934e4219">
-
-<img width="608" alt="Screenshot 2024-03-25 at 10 40 55 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/2a25df71-2c39-42c2-8cd4-47f1115a012b">
-
-<img width="609" alt="Screenshot 2024-03-25 at 6 01 22 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/7dd9180d-3dff-4851-b4ab-b6cb88dfcb17">
-
-<img width="611" alt="Screenshot 2024-03-25 at 6 00 47 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/d1cbd8ec-ad92-4e63-9ddd-8f3e8f9604a3">
-
-<img width="612" alt="Screenshot 2024-03-25 at 6 00 11 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/939617ca-7ac3-4f22-92ee-073ef48afc82">
-
-<img width="599" alt="Screenshot 2024-03-25 at 6 01 29 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/679f8fe9-fe8c-4061-84dc-3bf6005920a5">
-
-<img width="595" alt="Screenshot 2024-03-25 at 6 00 58 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/2afb20ba-fee7-4ab4-8036-1ac2577bb9fe">
-
-<img width="619" alt="Screenshot 2024-03-25 at 6 00 25 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/c1fdeed0-74a3-4dd5-aa1f-80cd83e7e0ae">
-
-<img width="622" alt="Screenshot 2024-03-25 at 6 01 36 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/d89372c2-66ea-48d2-a312-7c7ae0b3ef26">
-
-<img width="594" alt="Screenshot 2024-03-25 at 6 01 15 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/e532ee3f-2d37-4931-bf7b-2a5ede1c7b7e">
-
-<img width="604" alt="Screenshot 2024-03-25 at 6 00 35 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/09f7d41d-a440-4abe-817e-0b0cac6b4c2e">
 
 ## Queries:
 
