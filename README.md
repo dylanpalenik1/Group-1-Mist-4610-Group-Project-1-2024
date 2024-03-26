@@ -33,7 +33,7 @@ It should also be noted that Players can receive injuries through their time in 
 
 Squads can consist of multiple players, have one manager, and play multiple matches. Therefore there are three relationships defined in this case. These include the previously mentioned M-M relation between Players and Squad, a M-1 non-identifying relationship between Squad and Manager, and a 1-M non-identifying relationship between Squad and Matches. Each Manager can manage multiple squads, but each squad may only have one manager
 
-<img width="687" alt="Screenshot 2024-03-26 at 11 42 04 AM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/b14a13f3-f0e6-416d-9dce-6caeee3db235">
+<img width="692" alt="Screenshot 2024-03-26 at 5 59 51 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/ec64138e-6082-4c74-a2a9-f4c569a6b1ec">
 
 ## Data Dictionary:
 <img width="605" alt="Screenshot 2024-03-25 at 5 59 43 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/40ec4797-21c9-43d2-a46f-705a1ea5b11e">
