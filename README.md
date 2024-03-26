@@ -39,7 +39,7 @@ Squads can consist of multiple players, have one manager, and play multiple matc
 
 <img width="614" alt="Screenshot 2024-03-25 at 5 59 24 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/fcbcfa7c-451d-47a3-852d-877c934e4219">
 
-<img width="604" alt="Screenshot 2024-03-25 at 10 40 12 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/561e20dd-9a00-481f-b190-1d9cc298a1f1">
+<img width="608" alt="Screenshot 2024-03-25 at 10 40 55 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/2a25df71-2c39-42c2-8cd4-47f1115a012b">
 
 <img width="609" alt="Screenshot 2024-03-25 at 6 01 22 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/7dd9180d-3dff-4851-b4ab-b6cb88dfcb17">
 
