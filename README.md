@@ -68,4 +68,4 @@ Squads can consist of multiple players, have one manager, and play multiple matc
 
 Name of the database: ns_Sp24_61608_Group1
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
+Additional Information: Each query above is in the database using stored procedures which can be called upon using the following format: CALL TP_Q1();
