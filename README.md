@@ -7,8 +7,8 @@
 
 1) Dylan Palenik: [@DylanPalenik1](https://github.com/dylanpalenik1)
 2) Aakash Dholakia: [@AakashDholakia](https://github.com/AakashDholakia)
-3) Dan Kerik: [@dan-kerik](https://github.com/dan-kerik)
-4) Hayley Daniels: [@hayleydaniels](https://github.com/hayleydaniels)
+3) Dan Kerik: [@Dan-Kerik](https://github.com/dan-kerik)
+4) Hayley Daniels: [@HayleyDaniels](https://github.com/hayleydaniels)
 5) Jordan Beal: [@JordanBeal](https://github.com/Jlb65166)
 6)  Lexie-Anne Rodkey: [@LexieRodkey](https://github.com/lexierodkey)
 
