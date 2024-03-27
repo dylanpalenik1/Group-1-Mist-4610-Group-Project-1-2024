@@ -5,7 +5,7 @@
 
 ## Team Members:
 
-1) Dylan Palenik: [@DylanPalenik](https://github.com/dylanpalenik)
+1) Dylan Palenik: [@DylanPalenik1](https://github.com/dylanpalenik1)
 2) Aakash Dholakia: [@AakashDholakia](https://github.com/AakashDholakia)
 3) Dan Kerik: [@dan-kerik](https://github.com/dan-kerik)
 4) Hayley Daniels: [@hayleydaniels](https://github.com/hayleydaniels)
