@@ -8,7 +8,7 @@
 1. Dylan Palenik [@dylanpalenik1](https://github.com/dylanpalenik1)
 2. Jordan Beal[@dylanpalenik1](https://github.com/dylanpalenik1)
 3. Hayley Daniels[@hayleydaniels](https://github.com/hayleydaniels)
-4. Aakash Dholakia[@dylanpalenik1](https://github.com/dylanpalenik1)
+4. Aakash Dholakia[@AakashDholakia](https://github.com/AakashDholakia)
 5. Dan Kerik[@dylanpalenik1](https://github.com/dylanpalenik1)
 6. Lexie-anne Rodkey[@lexieRodkey](https://github.com/lexieRodkey)
 
